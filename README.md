@@ -106,13 +106,15 @@ if(NUM_LOOPS>=10)    {
 ## OUTPUT
 $ ./sem.o 
 
-![440111041-001dc32c-b0b2-4882-83c3-c4fcde0c4e8b](https://github.com/user-attachments/assets/9e54273b-3f30-49a5-89a3-b17cfc0c9212)
+![image](https://github.com/user-attachments/assets/df748ee6-1314-47d5-bbeb-262e42f026e5)
+
 
 
 $ ipcs
 
 
-![440111051-74a94f5c-4f2f-4bb4-b248-6ed4cbbb8fbe](https://github.com/user-attachments/assets/e308eda7-8215-4b73-bf2d-f7998116f445)
+![image](https://github.com/user-attachments/assets/5041fd07-de9a-4971-893e-5a4a36fdd15f)
+
 
 
 # RESULT:
